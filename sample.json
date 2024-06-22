@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Reuters",
+      "title": "D-Day anniversary 2024: World leaders, veterans, commemorate Normandy landings - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS93b3JsZC1sZWFkZXJzLXZldGVyYW5zLWNvbW1lbW9yYXRlLWQtZGF5cy04MHRoLWFubml2ZXJzYXJ5LW5vcm1hbmR5LTIwMjQtMDYtMDYv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T10:15:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Associated Press",
+      "title": "Israel-Hamas war: Israeli strike on Gaza school kills more than 30 - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1wYWxlc3RpbmlhbnMtaGFtYXMtd2FyLW5ld3MtNi02LTIwMjQtM2QwN2U3MTJmOGFiYzFlMDgzMzkxNjMxODA4MjNmYjjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T09:36:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Ariana Eunjung Cha",
+      "title": "'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame. - The Washington Post",
+      "description": "It’s not a new idea that viruses can cause or accelerate cancer. But it will probably be years before answers emerge about covid and cancer.",
+      "url": "https://www.washingtonpost.com/health/2024/06/06/covid-cancer-increase-link/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BQCI2AC6QJU7QROSUMPPPKAHRU_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-06-06T09:28:55Z",
+      "content": "ROCK HILL, S.C. Kashyap Patel looked forward to his teams Friday lunches. All the doctors from his oncology practice would gather in the open-air courtyard under the shadow of a tall magnolia tree an… [+12616 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Greatandhra",
+      "title": "Chandrababu's Superb Demands To NDA.. - Greatandhra",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLTEzODQwMNIBUmh0dHBzOi8vbW9iaS5ncmVhdGFuZGhyYS5jb20vYXJ0aWNsZS9jaGFuZHJhYmFidXMtc3VwZXJiLWRlbWFuZHMtdG8tbmRhLzEzODQwMC9hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T08:59:58Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Adam Thompson",
+      "title": "Reported tornadoes cause damage during powerful Maryland storms - CBS Baltimore",
+      "description": "Powerful storms plowed through Maryland Wednesday evening, knocking down trees and structures.",
+      "url": "https://www.cbsnews.com/baltimore/news/tornado-confirmed-in-montgomery-county-during-maryland-storms/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/06/910a578b-cf46-49d9-ab05-8bd8a60763e9/thumbnail/1200x630/400199fbef18de37d098cb081de6322c/tree3.jpg?v=6d480a252670b63de1e37fef02c977a5",
+      "publishedAt": "2024-06-06T08:21:18Z",
+      "content": "BALTIMORE - Powerful storms plowed through Maryland Wednesday evening, knocking down trees and structures.\r\nA likely tornado caused a tree to topple onto a home in Gaithersburg, on Dogwood Drive, tra… [+1758 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Beast" },
+      "author": "Matt Young",
+      "title": "Putin Delivers Ominous Warning to Anyone Helping Ukraine - The Daily Beast",
+      "description": "The Russian president is considering arming other countries to strike allies of Ukraine, while boasting of his nuclear arsenal.",
+      "url": "https://www.thedailybeast.com/putin-delivers-ominous-warning-to-anyone-helping-ukraine",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3267,w_5808,x_0,y_257/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1717634495/GettyImages-2155616041_srbqlc",
+      "publishedAt": "2024-06-06T08:07:06Z",
+      "content": "Russian President Vladimir Putin delivered what appeared to be a veiled threat against allies of Ukraine on Wednesday, suggesting Russia could supply long-range weapons to its own allies in order to … [+3813 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Nvidia value hits $3tn, overtaking Apple - BBC.com",
+      "description": "Nvidia has been marked out as a  winner from a wave of investments in artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/c6ppqd3j621o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fea4/live/415e2650-2380-11ef-bac3-438326d5ea25.jpg",
+      "publishedAt": "2024-06-06T06:51:12Z",
+      "content": "Natalie Sherman,Business reporter, BBC News\r\nNvidia's market value has surged past $3tn (£2.3tn), lifting the chip giant ahead of Apple to become the second most valuable publicly listed company in t… [+2096 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Leah Degrazia",
+      "title": "Reese Witherspoon Reacts After Nicole Kidman Forgets Her Real Name - E! NEWS",
+      "description": "Reese Witherspoon had to remind Nicole Kidman that she uses a stage name when discussing her \"weird\" nickname for their Big Little Lies costar Laura Dern.",
+      "url": "https://www.eonline.com/news/1403071/reese-witherspoon-reacts-after-nicole-kidman-forgets-her-real-name",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202455/cr_1200x1200-240605153427-GettyImages-2150504357.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-06-06T06:44:27Z",
+      "content": "Reese Witherspoon's been living a big little lie. \r\nAfter Nicole Kidman questioned why Reese calls their Big Little Lies costar Laura Dern by her last name, the Legally Blonde actress had to give her… [+789 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Antidepressant withdrawal affects one in six people - BBC.com",
+      "description": "One in six people have symptoms stopping antidepressants - fewer than previously thought, a review suggests.",
+      "url": "https://www.bbc.com/news/articles/c3ggv7zvzw3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12bf/live/247cd290-23ce-11ef-85e1-b5cf8721ba30.jpg",
+      "publishedAt": "2024-06-06T06:40:51Z",
+      "content": "Philippa Roxby,Health reporter, BBC News\r\nOne out of every six people have symptoms when they stop taking antidepressants - fewer than previously thought, a review of previous studies suggests.\r\nThe … [+3147 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Stephen Clark",
+      "title": "Boeing's Starliner finally soars, but mission control reports more helium leaks - Ars Technica",
+      "description": "Despite the new leaks, mission control says Starliner can still dock with the space station.",
+      "url": "https://arstechnica.com/space/2024/06/after-a-successful-launch-boeings-starliner-runs-into-more-helium-leaks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53772281410_901326aee0_k-760x380.jpg",
+      "publishedAt": "2024-06-06T06:39:20Z",
+      "content": "Enlarge/ Boeing's Starliner capsule lifts off aboard United Launch Alliance's Atlas V rocket.\r\n44\r\nAfter years of delays, Boeing's Starliner spacecraft finally rocketed into orbit from Florida on Wed… [+8783 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC.com",
+      "title": "Jerusalem: Israeli nationalists march through Old City - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbTU1ZHA4eDVrZW_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T06:31:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "KTLA Los Angeles" },
+      "author": "Josh DuBose",
+      "title": "Retail company in California using body-worn cameras to deter shoplifters - KTLA Los Angeles",
+      "description": "A surge in flash mob robberies and shoplifting at retail stores across Southern California has some companies getting creative with security, and now customers may notice some employees at shops sporting body-worn cameras.   Retail security employees at cloth…",
+      "url": "https://ktla.com/news/california/retail-company-in-california-using-body-worn-cameras-to-deter-shoplifters/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/06/Retail-store-security-3.png?w=1280",
+      "publishedAt": "2024-06-06T05:28:09Z",
+      "content": "A surge in flash mob robberies and shoplifting at retail stores across Southern California has some companies getting creative with security, and now customers may notice some employees at shops spor… [+1886 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Hunter Biden’s ex-girlfriend details his crack cocaine addiction at trial - Al Jazeera English",
+      "description": "Jurors heard that Biden would spend days in hotel rooms getting high in months before his 2018 gun purchase.",
+      "url": "https://www.aljazeera.com/news/2024/6/6/hunter-bidens-ex-girlfriend-details-his-crack-cocaine-addiction-at-trial",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-04T204719Z_1213716315_RC2K48ACSSYZ_RTRMADP_3_USA-BIDEN-HUNTER-CHARGES-1717648478.jpg?resize=1200%2C630",
+      "publishedAt": "2024-06-06T05:26:21Z",
+      "content": "Hunter Bidens former girlfriend has testified about his near-constant crack cocaine use at luxury hotels at the criminal trial where prosecutors are trying to prove that US President Joe Bidens son l… [+2989 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "POLITICO",
+      "title": "Feds set stage for antitrust probes of Nvidia, Microsoft and OpenAI - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/06/06/federal-antitrust-probes-nvidia-microsoft-openai-00161973",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T05:16:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "POLITICO",
+      "title": "Biden's team takes from Reagan's playbook as he heads to Normandy - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/06/06/biden-inspiration-reagan-normandy-visit-00161888",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T04:20:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Vanessa Serna",
+      "title": "Jax Taylor claims he and Brittany Cartwright are 'working things out' hours after saying she's moved on - Page Six",
+      "description": "He previously claimed in a since-deleted tweet that his estranged wife had been “sleeping with” someone for the past four months.",
+      "url": "https://pagesix.com/2024/06/05/entertainment/jax-taylor-claims-he-and-brittany-cartwright-are-working-things-out/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/06/83324359.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-06-06T03:13:00Z",
+      "content": "Jax Taylor has backtracked on claims that his estranged wife, Brittany Cartwright, already moved on.\r\nOn Wednesday, the Bravo star, 44, responded to a fan on X who asked about the status of their rel… [+3056 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investing.com" },
+      "author": "Ambar Warrick",
+      "title": "Asian stocks boosted by rate cut bets, tech tracks Nvidia rally By Investing.com - Investing.com",
+      "description": "Asian stocks boosted by rate cut bets, tech tracks Nvidia rally",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-boosted-by-rate-cut-bets-tech-tracks-nvidia-rally-3472873",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_L.jpg",
+      "publishedAt": "2024-06-06T02:31:33Z",
+      "content": "Investing.com-- Most Asian stocks rose on Thursday amid increased optimism over lower interest rates across the globe, while regional technology shares surged tracking overnight gains in artificial i… [+2590 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "2024 NBA Finals: Five bold predictions for Celtics vs. Mavericks, with tight series ending in historic upset - CBS Sports",
+      "description": "The 2024 NBA Finals tip off Thursday night, so let's get bold before the Celtics and Mavericks square off",
+      "url": "https://www.cbssports.com/nba/news/2024-nba-finals-five-bold-predictions-for-celtics-vs-mavericks-with-tight-series-ending-in-historic-upset/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/05/d9f4e381-b1ac-4eae-83fe-6700c918698f/thumbnail/1200x675/8b16847a13dd2bf1d856bdc1ed5f1b65/luka-doncic-mavericks-getty.png",
+      "publishedAt": "2024-06-06T02:09:00Z",
+      "content": "The 2024 NBA Finals have arrived. Game 1 is set for Thursday night. Dallas at Boston. The Celtics are the favorites, but most people, myself included, see this as more of a tossup series than that nu… [+5674 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    }
+  ]
+}
