@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# NewsDawg
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**NewsDawg** is a modern and responsive news website built using React. It dynamically fetches top headlines from various news sources, offering users a seamless experience with infinite scrolling, social sharing, and a user-friendly interface for browsing the latest news articles.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Dynamic News Fetching:** Fetches top headlines from multiple news sources using NewsAPI.
+- **User-Friendly Interface:** Clean and intuitive design for easy news browsing.
+- **Infinite Scrolling:** Load more news articles automatically as users scroll.
+- **Loading Spinner:** Provides visual feedback during data fetches for better UX.
+- **Detailed News Display:** Shows articles with title, description, author, date, and source.
+- **Comments Section:** Allows users to interact by commenting on each article.
+- **Social Sharing:** Buttons for Facebook, Twitter, and LinkedIn for easy article sharing.
+- **Styled Components:** Uses styled components for consistent and polished design.
+- **Responsive Design:** Ensures usability across different devices and screen sizes.
+- **Optimized Image Handling:** Efficiently handles images and text truncation for a uniform layout.
+- **Accessibility:** Built with accessibility in mind to provide an inclusive experience.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React:** JavaScript library for building user interfaces.
+- **NewsAPI:** API service to fetch the latest news articles.
+- **Infinite Scroll:** React component for implementing infinite scrolling.
+- **PropTypes:** Type-checking for React props.
+- **FontAwesome:** Icon library for social sharing buttons.
+- **Styled Components:** For writing CSS-in-JS and ensuring design consistency.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Requirements
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Node.js** (v12.0.0 or higher)
+- **npm** (v6.0.0 or higher)
